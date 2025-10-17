@@ -1,0 +1,6 @@
+[package]
+name = "practical-2pc-mpc"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
